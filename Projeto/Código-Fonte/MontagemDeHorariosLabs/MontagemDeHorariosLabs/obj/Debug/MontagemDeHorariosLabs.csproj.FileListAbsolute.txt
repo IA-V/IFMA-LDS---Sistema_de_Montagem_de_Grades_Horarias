@@ -1,0 +1,122 @@
+c:\users\processo\documents\visual studio 2017\Projects\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\MontagemDeHorariosLabs.exe.config
+c:\users\processo\documents\visual studio 2017\Projects\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\MontagemDeHorariosLabs.exe
+c:\users\processo\documents\visual studio 2017\Projects\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\MontagemDeHorariosLabs.pdb
+c:\users\processo\documents\visual studio 2017\Projects\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.csprojResolveAssemblyReference.cache
+c:\users\processo\documents\visual studio 2017\Projects\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.Properties.Resources.resources
+c:\users\processo\documents\visual studio 2017\Projects\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmCadastroDisciplinas.resources
+c:\users\processo\documents\visual studio 2017\Projects\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmCadastroLaboratorios.resources
+c:\users\processo\documents\visual studio 2017\Projects\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmCadastroProfessores.resources
+c:\users\processo\documents\visual studio 2017\Projects\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultaDisciplinas.resources
+c:\users\processo\documents\visual studio 2017\Projects\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultaLaboratorios.resources
+c:\users\processo\documents\visual studio 2017\Projects\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultaProfessores.resources
+c:\users\processo\documents\visual studio 2017\Projects\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.frmLogin.resources
+c:\users\processo\documents\visual studio 2017\Projects\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.csproj.GenerateResource.Cache
+c:\users\processo\documents\visual studio 2017\Projects\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.exe
+c:\users\processo\documents\visual studio 2017\Projects\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.pdb
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\MontagemDeHorariosLabs.exe.config
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\MontagemDeHorariosLabs.exe
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\MontagemDeHorariosLabs.pdb
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.Properties.Resources.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmCadastroDisciplinas.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmCadastroLaboratorios.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmCadastroProfessores.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultaDisciplinas.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultaGradeHorarioVigente.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultaLaboratorios.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultaProfessores.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmEscolhaLaboratorioGHV.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmIncluirHorario.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmTelaPrincipal.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.csproj.GenerateResource.Cache
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.exe
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.pdb
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmRelatorioGrade.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.csprojResolveAssemblyReference.cache
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\MySql.Data.DLL
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\MontagemDeHorariosLabs.exe.config
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\MontagemDeHorariosLabs.exe
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\MontagemDeHorariosLabs.pdb
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\MySql.Data.DLL
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.csprojResolveAssemblyReference.cache
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.Properties.Resources.resources
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultaGradeHorarioVigente.resources
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\montagem_de_horarios.Form1.resources
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmCadastroDisciplinas.resources
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmCadastroLaboratorios.resources
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmCadastroProfessores.resources
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultaDisciplinas.resources
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultaLaboratorios.resources
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultaProfessores.resources
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmEscolhaLaboratorioGHV.resources
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmIncluirHorario.resources
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.frmLogin.resources
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmCadastroGradeHoraria.resources
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmRelatorioGrade.resources
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmTelaPrincipal.resources
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.csproj.GenerateResource.cache
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.csproj.CoreCompileInputs.cache
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.csproj.CopyComplete
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.exe
+C:\Users\IAGO\Downloads\Project-LDS\Project-LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.pdb
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmTrocaCoordenadores.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmMontagemGradeHoraria.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmLogin.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultasEspecificas.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmListagem.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\Projeto de LDS\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmEscolhaHorario.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\MontagemDeHorariosLabs.exe.config
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\MontagemDeHorariosLabs.exe
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\MontagemDeHorariosLabs.pdb
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\MySql.Data.DLL
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.csprojResolveAssemblyReference.cache
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.Properties.Resources.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultaGradeHorarioVigente.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultasEspecificas.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmEscolhaHorario.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmListagem.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmMontagemGradeHoraria.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmCadastroDisciplinas.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmCadastroLaboratorios.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmCadastroProfessores.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultaDisciplinas.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultaLaboratorios.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultaProfessores.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmEscolhaLaboratorioGHV.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmIncluirHorario.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmLogin.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmRelatorioGrade.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmTelaPrincipal.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmTrocaCoordenadores.resources
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.csproj.GenerateResource.Cache
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.exe
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.pdb
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\itextsharp.dll
+C:\Users\Processo\Desktop\Vida Escolar no IFMA\6° Período\Laboratório de Desenvolvimento de Software\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\itextsharp.xml
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\MontagemDeHorariosLabs.exe.config
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.exe
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.pdb
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\MontagemDeHorariosLabs.exe
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\MontagemDeHorariosLabs.pdb
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\itextsharp.dll
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\MySql.Data.DLL
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\bin\Debug\itextsharp.xml
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.csprojResolveAssemblyReference.cache
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.Properties.Resources.resources
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultaGradeHorarioVigente.resources
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultasEspecificas.resources
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmEscolhaHorario.resources
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmListagem.resources
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmMontagemGradeHoraria.resources
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmCadastroDisciplinas.resources
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmCadastroLaboratorios.resources
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmCadastroProfessores.resources
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultaDisciplinas.resources
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultaLaboratorios.resources
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmConsultaProfessores.resources
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmEscolhaLaboratorioGHV.resources
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmIncluirHorario.resources
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmLogin.resources
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmRelatorioGrade.resources
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmTelaPrincipal.resources
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.view.frmTrocaCoordenadores.resources
+F:\LDS - apresentação\Projeto\Código-Fonte\MontagemDeHorariosLabs\MontagemDeHorariosLabs\obj\Debug\MontagemDeHorariosLabs.csproj.GenerateResource.Cache

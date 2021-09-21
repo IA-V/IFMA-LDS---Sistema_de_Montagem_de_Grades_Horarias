@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2DFA8F0C-8BB0-42E2-93FB-BE90E1036DA6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MontagemDeHorariosLabs</RootNamespace>
+    <AssemblyName>MontagemDeHorariosLabs</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\packages\iTextSharp.5.5.13\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data">
+      <HintPath>.\MySql.Data.DLL</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="dao\ConnectionFactory.cs" />
+    <Compile Include="dao\DaoCoordenador.cs" />
+    <Compile Include="dao\DaoDisciplinaTecnica.cs" />
+    <Compile Include="dao\DaoGradeHoraria.cs" />
+    <Compile Include="dao\DaoHorario.cs" />
+    <Compile Include="dao\DaoLaboratorio.cs" />
+    <Compile Include="dao\DaoProfessor.cs" />
+    <Compile Include="model\Coordenador.cs" />
+    <Compile Include="model\DisciplinaTecnica.cs" />
+    <Compile Include="model\GradeHoraria.cs" />
+    <Compile Include="model\Horario.cs" />
+    <Compile Include="model\Laboratorio.cs" />
+    <Compile Include="model\Professor.cs" />
+    <Compile Include="Utils.cs" />
+    <Compile Include="view\Horarios\frmConsultaGradeHorarioVigente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Horarios\frmConsultaGradeHorarioVigente.designer.cs">
+      <DependentUpon>frmConsultaGradeHorarioVigente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\Horarios\frmConsultasEspecificas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Horarios\frmConsultasEspecificas.Designer.cs">
+      <DependentUpon>frmConsultasEspecificas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\Horarios\frmEscolhaHorario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Horarios\frmEscolhaHorario.Designer.cs">
+      <DependentUpon>frmEscolhaHorario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\Horarios\frmListagem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Horarios\frmListagem.Designer.cs">
+      <DependentUpon>frmListagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\Horarios\frmMontagemGradeHoraria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Horarios\frmMontagemGradeHoraria.designer.cs">
+      <DependentUpon>frmMontagemGradeHoraria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\Disciplina\frmCadastroDisciplinas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Disciplina\frmCadastroDisciplinas.Designer.cs">
+      <DependentUpon>frmCadastroDisciplinas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\Laboratorio\frmCadastroLaboratorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Laboratorio\frmCadastroLaboratorios.Designer.cs">
+      <DependentUpon>frmCadastroLaboratorios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\Professor\frmCadastroProfessores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Professor\frmCadastroProfessores.Designer.cs">
+      <DependentUpon>frmCadastroProfessores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\Disciplina\frmConsultaDisciplinas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Disciplina\frmConsultaDisciplinas.Designer.cs">
+      <DependentUpon>frmConsultaDisciplinas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\Laboratorio\frmConsultaLaboratorios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Laboratorio\frmConsultaLaboratorios.Designer.cs">
+      <DependentUpon>frmConsultaLaboratorios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\Professor\frmConsultaProfessores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Professor\frmConsultaProfessores.Designer.cs">
+      <DependentUpon>frmConsultaProfessores.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\Horarios\frmEscolhaLaboratorioGHV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Horarios\frmEscolhaLaboratorioGHV.Designer.cs">
+      <DependentUpon>frmEscolhaLaboratorioGHV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\Horarios\frmIncluirHorario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Horarios\frmIncluirHorario.Designer.cs">
+      <DependentUpon>frmIncluirHorario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\Coordenador\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Coordenador\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="view\Horarios\frmRelatorioGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Horarios\frmRelatorioGrade.Designer.cs">
+      <DependentUpon>frmRelatorioGrade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\frmTelaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\frmTelaPrincipal.Designer.cs">
+      <DependentUpon>frmTelaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\Coordenador\frmTrocaCoordenadores.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Coordenador\frmTrocaCoordenadores.Designer.cs">
+      <DependentUpon>frmTrocaCoordenadores.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="view\Horarios\frmConsultaGradeHorarioVigente.resx">
+      <DependentUpon>frmConsultaGradeHorarioVigente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Horarios\frmConsultasEspecificas.resx">
+      <DependentUpon>frmConsultasEspecificas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Horarios\frmEscolhaHorario.resx">
+      <DependentUpon>frmEscolhaHorario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Horarios\frmListagem.resx">
+      <DependentUpon>frmListagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Horarios\frmMontagemGradeHoraria.resx">
+      <DependentUpon>frmMontagemGradeHoraria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Disciplina\frmCadastroDisciplinas.resx">
+      <DependentUpon>frmCadastroDisciplinas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Laboratorio\frmCadastroLaboratorios.resx">
+      <DependentUpon>frmCadastroLaboratorios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Professor\frmCadastroProfessores.resx">
+      <DependentUpon>frmCadastroProfessores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Disciplina\frmConsultaDisciplinas.resx">
+      <DependentUpon>frmConsultaDisciplinas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Laboratorio\frmConsultaLaboratorios.resx">
+      <DependentUpon>frmConsultaLaboratorios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Professor\frmConsultaProfessores.resx">
+      <DependentUpon>frmConsultaProfessores.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Horarios\frmEscolhaLaboratorioGHV.resx">
+      <DependentUpon>frmEscolhaLaboratorioGHV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Horarios\frmIncluirHorario.resx">
+      <DependentUpon>frmIncluirHorario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Coordenador\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Horarios\frmRelatorioGrade.resx">
+      <DependentUpon>frmRelatorioGrade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\frmTelaPrincipal.resx">
+      <DependentUpon>frmTelaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\Coordenador\frmTrocaCoordenadores.resx">
+      <DependentUpon>frmTrocaCoordenadores.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\History-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ifmaLogo.jpeg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
